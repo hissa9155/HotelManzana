@@ -248,7 +248,7 @@ class AddRegistrationTableViewController: UITableViewController, SelectRoomTypeT
   
   @objc private func stepperValueChanged(_ sender: Any) {
     updateNumberOfGuests()
-    activateDoneButton()
+    
   }
   
   
