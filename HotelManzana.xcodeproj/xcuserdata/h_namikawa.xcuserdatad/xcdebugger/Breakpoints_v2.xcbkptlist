@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F87F550F-030E-4046-9A6A-88B13C79D296"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE28A4FF-8138-455D-A8D4-9823C9659A69"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HotelManzana/PersonalInfoTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "init(style:reuseIdentifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CEB071C-15EC-40AF-9057-BA053AA6AACE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HotelManzana/AddRegistrationTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "167"
+            endingLineNumber = "167"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7CEB071C-15EC-40AF-9057-BA053AA6AACE - a28ae421bd34d63c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelManzana.AddRegistrationTableViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "HotelManzana"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/h_namikawa/Desktop/SwiftLesson/M1-0123/HotelManzana/HotelManzana/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "136"
+                  endingLineNumber = "136"
+                  offsetFromSymbolStart = "468">
+               </Location>
+               <Location
+                  uuid = "7CEB071C-15EC-40AF-9057-BA053AA6AACE - a28ae421bd34d65d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelManzana.AddRegistrationTableViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "HotelManzana"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/h_namikawa/Desktop/SwiftLesson/M1-0123/HotelManzana/HotelManzana/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F39C696B-3189-42EB-84DE-FB5C59DC9341"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HotelManzana/AddRegistrationTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59007625-39C5-4E06-BB48-62BFF1515EF8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HotelManzana/AddRegistrationTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D31FAE3-7830-4FDE-9931-8799DF1CB4A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HotelManzana/AddRegistrationTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "306"
+            endingLineNumber = "306"
+            landmarkName = "updateRoomType()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5D31FAE3-7830-4FDE-9931-8799DF1CB4A7 - 738b4f9ee7386b8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelManzana.AddRegistrationTableViewController.updateRoomType() -&gt; ()"
+                  moduleName = "HotelManzana"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/h_namikawa/Desktop/SwiftLesson/M1-0123/HotelManzana/HotelManzana/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "5D31FAE3-7830-4FDE-9931-8799DF1CB4A7 - 738b4f9ee7386b8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelManzana.AddRegistrationTableViewController.updateRoomType() -&gt; ()"
+                  moduleName = "HotelManzana"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/h_namikawa/Desktop/SwiftLesson/M1-0123/HotelManzana/HotelManzana/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "5D31FAE3-7830-4FDE-9931-8799DF1CB4A7 - 738b4f9ee7386b8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HotelManzana.AddRegistrationTableViewController.updateRoomType() -&gt; ()"
+                  moduleName = "HotelManzana"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/h_namikawa/Desktop/SwiftLesson/M1-0123/HotelManzana/HotelManzana/AddRegistrationTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "288"
+                  endingLineNumber = "288"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
