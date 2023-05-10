@@ -18,6 +18,7 @@ class RegistrationTableViewController: UITableViewController, AddRegistrationTab
     tableView.register(RegistrationTableViewCell.self, forCellReuseIdentifier: cellIdentifier)
     
     navigationItem.title = "Registrations"
+    navigationController?.navigationBar.prefersLargeTitles = true
     //navigationItem.largeTitleDisplayMode = .always
     //tableView.largeContentTitle = "Registrations"
     
